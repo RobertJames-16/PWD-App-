@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PWD Online Portal (Flutter)
 
 A runnable Flutter starter for the PWD citizen and officer screens. It uses only Flutter's built-in Material library and in-memory sample data; reports reset when the app restarts.
@@ -25,3 +26,6 @@ The `lib/` folder contains the app entry point, report model/store, shared widge
 - Officer profile
 
 The map and media pickers are labeled demo placeholders. Connect them to a map provider, `image_picker`, and an API/backend for production use.
+=======
+# PWD-App-
+>>>>>>> origin/main
